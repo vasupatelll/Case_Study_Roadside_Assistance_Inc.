@@ -1,6 +1,6 @@
 # Roadside Assistance (RA) Analytics Project Description
 
-## Project Description: Revolutionize Harley-Davidson Procurement Using AI
+## 📌 Project Description: Revolutionize Harley-Davidson Procurement Using AI
 
 Harley-Davidson initiated a major transformation project targeted at overhauling its procurement processes by embracing AI and analytics to drive efficient operations. The name of the project team was called Supplier Information Link, or SiL'K in short, and was tasked with the following activities:
 
@@ -9,7 +9,7 @@ An enterprise software solution should be selected to redesign the whole procure
 3. Apply AI enabled procurement analytics.
 4. Apply predictive models in the process of better decision-making, reducing costs.
 
-## Key Highlights of the Project:
+## ⚙️ Key Highlights of the Project:
 Assessment of Current Processes: The identification of inefficiencies within decentralized procurement systems that restrict the effective application of analytics.
 - Modernization Goals: Developing AI-powered tools for real-time analytics, supplier performance predictions, and cost optimization.
 - Software Selection Process: Assessing providers by means of quantitative criteria such as functionality and readiness for AI, but also qualitative like training approach and costs to identify the supplier that could support said digital change.
